@@ -9,6 +9,6 @@
 # Aliases
 #
 
-alias jwk='cd ~/workspace'
-alias jwk='cd ~/workspace/razorfish'
 alias jtmp='cd ~/tmp'
+alias jwk='cd ~/workspace'
+alias jwkr='cd ~/workspace/razorfish'
